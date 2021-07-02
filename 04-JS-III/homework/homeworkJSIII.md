@@ -1,0 +1,1 @@
+ARRAY: es como una lista de un conjunto de datos que están relacionados y guardados de forma consecutiva, es decir, que puede abarcar muchos datos en el mismo lugar ordenados como en una fila que va de izquierda a derecha donde cada dato se encuentra en un casillero distinto el cual mantiene un número del órden que lo distingue.
