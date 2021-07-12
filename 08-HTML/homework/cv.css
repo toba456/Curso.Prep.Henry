@@ -1,0 +1,52 @@
+body{
+    display: flex ;
+}
+.contenedor{
+    border:cornflowerblue 1px solid;
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    
+}
+.principal{
+    padding: 10px;
+    background-color: cornflowerblue;
+}
+.header{
+    display: flex;
+    
+}
+#tobias{
+    width: 200px;
+    border-radius: 5%;
+    margin-right: 30px;
+    border: solid 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.nombre{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenido{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    border:cornflowerblue solid 1px;
+    color: cornflowerblue;
+}
+#extra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+h3{
+    color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+    
+    
+}
